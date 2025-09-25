@@ -1,0 +1,3 @@
+- [x] Fix the if condition for computer won to include (choice == 2 and computer_choice == 0)
+- [x] Fix the elif condition for you won to include (choice == 0 and computer_choice == 2)
+- [x] Test the corrected code
